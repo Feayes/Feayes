@@ -58,9 +58,10 @@
 
 ## 🌸 GitHub Stats
 <p align="center"> 
-    <img src="https://github-readme-streak-stats-feayes.vercel.app/api?user=Feayes&theme=rose-pine&date_format=M%20j%5B,%20Y%5D&fire=FFB7C5&ring=FFB7C5&currStreakLabel=FFB7C5" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Feayes&theme=rose&border=FFB7C5&stroke=FFB7C5" height="150" />
     <img src="https://github-readme-stats-feayes.vercel.app/api?username=Feayes&show_icons=true&theme=rose_pine&title_color=FFB7C5&icon_color=FFB7C5&text_color=ffffff&bg_color=2E2E2E" height="150" />
 </p>
+
 
 
 ---
