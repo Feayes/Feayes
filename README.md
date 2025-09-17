@@ -57,7 +57,9 @@
 ---
 
 ## 🌸 GitHub Stats
-
+<p align="center">
+  <img src="github-readme-stats-feayes.vercel.app/api?username=Feayes&show_icons=true&theme=rose_pine&title_color=FFB7C5&icon_color=FFB7C5&text_color=ffffff&bg_color=2E2E2E" />
+</p>
 
 ---
 
