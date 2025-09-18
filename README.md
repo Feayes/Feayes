@@ -17,20 +17,17 @@
 
 ## 🌸 About Me
 <div>
-
-<img align="right" alt="coding" width="15%" src="https://i.pinimg.com/736x/d5/2f/53/d52f536b526c344ecf86d8f482feb52c.jpg"/>
-
-
- 
+  <img align="right" alt="Chill Neko" width="15%" src="assets/Neko.jpg"/>
+  
 👩‍💻 Exploring code like petals in the wind   
 
 🌱 Growing step by step on my Full-Stack journey   
 
-🤝 Excited to learn, share, and collaborate   
+🤝 Excited to learn, share, and collaborate 
 
 🌸 Fun fact: I mix creativity + logic like sakura tea & matcha latte 🍵  
 
- </div>
+</div>
 
 ---
 
@@ -92,11 +89,9 @@
 
 <!-- 🌸 Sakura Divider -->
 <p align="center">
-  <img src="https://s4.ezgif.com/tmp/ezgif-49830a5eb87056.gif"/>
+  ✦･ﾟ: *✧･ﾟ:* 💻 petals of logic, roots of creativity 🌸 *:･ﾟ✧*:･ﾟ✦
 </p>
-
----
-
+<p align="center">────────────── ⋆⋅☆⋅⋆ ──────────────</p>
 <p align="center">🌸 ありがとう for visiting my profile 🌸</p>
 
 
