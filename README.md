@@ -19,7 +19,7 @@
 👩‍💻 Exploring code like petals in the wind  
 🌱 Blooming step by step into a Fullstack Developer  
 🤝 Excited to collaborate & grow together  
-🌸 Fun fact: I mix creativity + logic like sakura tea & matcha latte 🍵  
+🌸 Fun fact: I mix creativity + logic like sakura tea & matcha latte 🍵
 
 ---
 
@@ -73,7 +73,7 @@
 
 ## 🌸 Fun Corner
 🍵 Tea before code  
-🎮 Gaming: CS2, Minecraft, Genshin  
+🎮 Gaming: Genshin, Star Rail, Minecraft 
 🐾 Cat person forever  
 🎶 Lofi + Anime OST when coding  
 
@@ -89,5 +89,5 @@
 <p align="center">🌸 ありがとう for visiting my profile 🌸</p>
 
 <p align="center">
-  <img src=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=100&section=footer" />
 </p>
