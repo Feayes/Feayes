@@ -34,16 +34,19 @@
 ## 🌸 Tech & Tools 🌸
 
 <p align="center">
-  
-  <!-- 🌸 Frontend -->
+
+  <!-- 🌸 Languages -->
   <img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-FBAED2?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-F797C3?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-F9A9D4?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7A8B8?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-F48FB1?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-F7A8B8?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <!-- 🌸 Frontend -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-F797C3?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-F9A9D4?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/React-F48FB1?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-E75480?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-F797C3?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
   <!-- 🌸 Backend -->
   <img src="https://img.shields.io/badge/Node.js-FF91AF?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -57,7 +60,7 @@
   <img src="https://img.shields.io/badge/Git-F48FB1?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-F797C3?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-F9A9D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-F7A8B8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-F9A9D4?style=for-the-badge&logo=postman&logoColor=white" />
 
 </p>
 
