@@ -73,20 +73,21 @@
 
 ## 🌸 Fun Corner
 🍵 Tea before code  
-🎮 Gaming: Genshin, Star Rail, Minecraft 
-🐾 Cat person forever  
+🎮 Gaming: Genshin, Star Rail, Minecraft  
+🐾 Powered by cats & code   
 🎶 Lofi + Anime OST when coding  
 
 ---
 
 <!-- 🌸 Sakura Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/demo/sakura.gif" width="600"/>
+  <img src="https://s4.ezgif.com/tmp/ezgif-49830a5eb87056.gif"/>
 </p>
 
 ---
 
 <p align="center">🌸 ありがとう for visiting my profile 🌸</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=100&section=footer" />
