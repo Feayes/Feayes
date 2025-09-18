@@ -16,10 +16,21 @@
 ---
 
 ## 🌸 About Me
-👩‍💻 Exploring code like petals in the wind  
-🌱 Blooming step by step into a Fullstack Developer  
-🤝 Excited to collaborate & grow together  
-🌸 Fun fact: I mix creativity + logic like sakura tea & matcha latte 🍵
+<div>
+
+<img align="right" alt="coding" width="15%" src="https://i.pinimg.com/736x/d5/2f/53/d52f536b526c344ecf86d8f482feb52c.jpg"/>
+
+
+ 
+👩‍💻 Exploring code like petals in the wind   
+
+🌱 Growing step by step on my Full-Stack journey   
+
+🤝 Excited to learn, share, and collaborate   
+
+🌸 Fun fact: I mix creativity + logic like sakura tea & matcha latte 🍵  
+
+ </div>
 
 ---
 
